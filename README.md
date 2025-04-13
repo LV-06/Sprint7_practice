@@ -9,4 +9,4 @@ Descarga el proyecto en el repositorio
 Instala las dependencias que aparecen en el archivo 'requiriments.txt'
 Ejecuta la aplicacion localmente usando streamlit run app.py
 ## Despliegue
-Este seria la pagina para ver el proyecto https://proyecto-7-krz0.onrender.com
+Este seria la pagina para ver el proyecto https://sprint7-practice.onrender.com
